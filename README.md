@@ -1,5 +1,14 @@
 # nodejs--vue-express-practice
 
+## Info
+
+Create by vue-cli and vue-cli-plugin-express.
+```
+vue create nodejs--vue-express-practice
+cd nodejs--vue-express-practice
+vue add express
+```
+
 ## Project setup
 ```
 yarn install
